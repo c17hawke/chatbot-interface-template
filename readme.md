@@ -1,4 +1,4 @@
-# chatbot interface template
+# chatbot interface template Flask based
 
 ## Reference for front-end
 
